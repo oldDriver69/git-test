@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("k");
         System.out.println("o");
         System.out.println("Hot-fix change");
+        System.out.println("Hot-fix change2");
     }
 }
