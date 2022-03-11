@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("o");
         System.out.println("Hot-fix change");
         System.out.println("master change before merge hot-fix");
+        System.out.println("Hot-fix change2");
     }
 }
