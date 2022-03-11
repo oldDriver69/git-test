@@ -8,5 +8,6 @@ package com.ncu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("k");
+        System.out.println("o");
     }
 }
